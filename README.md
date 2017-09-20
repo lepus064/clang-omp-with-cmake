@@ -1,2 +1,3 @@
-# clang-omp-with-cmake
-test
+# clang openmp with cmake example on macOS
+
+### 
